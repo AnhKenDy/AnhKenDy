@@ -1,0 +1,136 @@
+0Çí	*ÜHÜ˜†ÇÉ0Ç10	+ 0Çk	*ÜHÜ˜†Ç\ÇX<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>PayloadDisplayName</key>
+    <string>L√ÉNG KH√ÅCH Supervised</string>
+    <key>PayloadDescription</key>
+    <string>- Blocking iOS updates (OTA)
+- Revoke a blocked Certificate
+* New feature: Coming soon...
+
+*Surge v4
++ TCP Connection = True
++ Skip Server Certificate Verification = True
+
+Contact us: t.me/hiepkimcdtk55 (telegram)</string>
+    <key>PayloadOrganization</key>
+    <string>KCT</string>
+    <key>PayloadIdentifier</key>
+    <string>LANGKHACH-PC.34b6b758-ff0d-423c-8b4a-f7116daf8756</string>
+    <key>PayloadUUID</key>
+    <string>de8190f4-36fe-4d4e-a90f-16bc751f6a73</string>
+    <key>PayloadRemovalDisallowed</key>
+    <false />
+    <key>ConsentText</key>
+    <dict>
+      <key>default</key>
+      <string>- Blocking iOS updates (OTA)
+- Revoke a blocked Certificate
+* New feature: Coming soon...
+
+*Surge v4
++ TCP Connection = True
++ Skip Server Certificate Verification = True
+
+Contact us: t.me/hiepkimcdtk55 (telegram)</string>
+    </dict>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+    <key>HasRemovalPasscode</key>
+    <true />
+    <key>TargetDeviceType</key>
+    <integer>1</integer>
+    <key>PayloadContent</key>
+    <array>
+      <dict>
+        <key>PayloadDisplayName</key>
+        <string>Global HTTP Proxy</string>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.proxy.http.global</string>
+        <key>PayloadType</key>
+        <string>com.apple.proxy.http.global</string>
+        <key>PayloadUUID</key>
+        <string>ffec1964-a046-4a88-82d3-abf98d1a1e2c</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>ProxyType</key>
+        <string>Auto</string>
+        <key>ProxyPACURL</key>
+        <string>https://langkhach.imfast.io/maplocal/pacproxy.js</string>
+      </dict>
+      <dict>
+        <key>PayloadDisplayName</key>
+        <string>Certificate</string>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.security.pem</string>
+        <key>PayloadType</key>
+        <string>com.apple.security.pem</string>
+        <key>PayloadUUID</key>
+        <string>81a4efed-3e7d-44f2-90d2-4fd336d62731</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>PayloadCertificateFileName</key>
+        <string>ROOT CA L√ÉNG KH√ÅCH</string>
+        <key>PayloadContent</key>
+        <data>LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUVHVENDQXdHZ0F3SUJBZ0lVVzlpYjA5UU8rSTNMY1pOV3ZmUmF5Q3JuaTFJd0RRWUpLb1pJaHZjTkFRRUwKQlFBd2dab3hDekFKQmdOVkJBWVRBbFpPTVJrd0Z3WURWUVFJREJCSVFWUWdUVTlPSUZCSVZVTWdWRWhQTVE4dwpEUVlEVlFRSERBWklRU0JPVDBreEREQUtCZ05WQkFvTUEwdERWREVMTUFrR0ExVUVDd3dDVEVzeEhEQWFCZ05WCkJBTU1FMUpQVDFSRFFTQkNXU0JNUVU1SFMwaEJRMGd4SmpBa0Jna3Foa2lHOXcwQkNRRVdGMmhwWlhCcmFXMWoKWkhSck5UVkFaMjFoYVd3dVkyOXRNQ0FYRFRJd01EZ3dOekE1TVRFeE4xb1lEekl4TURJd09USTNNRGt4TVRFMwpXakNCbWpFTE1Ba0dBMVVFQmhNQ1ZrNHhHVEFYQmdOVkJBZ01FRWhCVkNCTlQwNGdVRWhWUXlCVVNFOHhEekFOCkJnTlZCQWNNQmtoQklFNVBTVEVNTUFvR0ExVUVDZ3dEUzBOVU1Rc3dDUVlEVlFRTERBSk1TekVjTUJvR0ExVUUKQXd3VFVrOVBWRU5CSUVKWklFeEJUa2RMU0VGRFNERW1NQ1FHQ1NxR1NJYjNEUUVKQVJZWGFHbGxjR3RwYldOawpkR3MxTlVCbmJXRnBiQzVqYjIwd2dnRWlNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0SUJEd0F3Z2dFS0FvSUJBUUROCnRjVUw3bzgrbU9tUlAwYUFUSkpRUzFoWlZaUVdNREJUZkdtRW5qMmRZMGwyNWRGcE9RQUpqV2N6R0R0d3RPS3AKZ3BENzRoT3pVdFYrVkw5Z2ExV200RUhsWlFPcWhaNktPQ1pjcmNGTnE2Z0Vyc0J6ZmtPd1E0dnJBU0wrS2RoZApTNEVleDBRRlRHZUxBQVdTRzNkckJ4MjF3ZTFBSXdKQy9JREo0WUhzczlyNmp3a3NaNFMzMDZocU45b3VRMXpsCjArampTQ21qLzE3R29DeERzSFBlTllFT1VZRFJ2WDBKZWQrcE4xUEpuNXRQZmVBRjNjUEpFUGU5M0lYRFpKd0QKcEl4cU81U0hrMi9sYm5DWVlaNjU4bWFuTVJmbmowOTN2QjcrNHFTRnJPNEdPa3JpbzBNUVZ1L3FoZ3hZZitIWAo2TTZQRGFSUUtBc3dkeGdOU3hZUEFnTUJBQUdqVXpCUk1CMEdBMVVkRGdRV0JCUzN6dFhBeWJ0VlpHMXJLWWk3CldqQXNNMG1lTFRBZkJnTlZIU01FR0RBV2dCUzN6dFhBeWJ0VlpHMXJLWWk3V2pBc00wbWVMVEFQQmdOVkhSTUIKQWY4RUJUQURBUUgvTUEwR0NTcUdTSWIzRFFFQkN3VUFBNElCQVFBekVab3NvcjZvQ1JHcm40aXZ1UW0xaHhFVQpVUzhVWW0xa1VPdVo4VzdnNXl0dUdLV09hKzNRdFp5aGpNTW54VlViWTg5UGZaaDNXUW9EOHdOaldnQ0FiNG50CkdTRVVjKzNSQ0xvOEFVcVBsUE9MUlhVMU9odTlVVVBubXNHY1B4TVI3OGFlRGhoQUhERXYwOWJuRjhlUWpJWTYKMzNuL1dWOENqK0lLb0xHOVd5aDhEVjB2czEvOFN3VnMwUjQvTGhnR1BjUnl3T0VPVFBUelE5OW9KVit6bmNydwpIaFlHMFIrUjdQc1lmRGpPMldSOEt6emRQQUx1dkRBZUlVYmpnRW9FdlBtdVhRZU1tenJmKzV3T1BKZ3l3QVMxCkFUcGQ0Yzl2aG9GdU1SQnJJUWdybmtZOE1UUGdiUC81K21Vdm1uTGw3V2xIczM1NUI5Nk03dTVaK3owQQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tCg==</data>
+      </dict>
+      <dict>
+        <key>PayloadDisplayName</key>
+        <string>Lock Screen Message</string>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.shareddeviceconfiguration</string>
+        <key>PayloadType</key>
+        <string>com.apple.shareddeviceconfiguration</string>
+        <key>PayloadUUID</key>
+        <string>2b0b200a-8482-4cbf-8a34-0103967835f8</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>IfLostReturnToMessage</key>
+        <string>L√£ng Kh√°ch, 0987870209</string>
+        <key>LockScreenFootnote</key>
+        <string>This iPhone is supervised and managed</string>
+        <key>AssetTagInformation</key>
+        <string>by AnhKenDy</string>
+      </dict>
+      <dict>
+        <key>PayloadDisplayName</key>
+        <string>NEXTDNS</string>
+        <key>PayloadIdentifier</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadType</key>
+        <string>com.apple.dnsSettings.managed</string>
+        <key>PayloadUUID</key>
+        <string>550a0477-e04c-4117-94ee-1276ae3dfb49</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+        <key>DNSSettings</key>
+        <dict>
+          <key>DNSProtocol</key>
+          <string>HTTPS</string>
+          <key>ServerAddresses</key>
+          <array>
+            <string>45.90.28.131</string>
+            <string>45.90.30.131</string>
+            <string>2a07:a8c0::39:94b1</string>
+            <string>2a07:a8c1::39:94b1</string>
+          </array>
+          <key>ServerName</key>
+          <string>3994b1.dns.nextdns.io</string>
+          <key>ServerURL</key>
+          <string>https://dns.nextdns.io/3994b1</string>
+        </dict>
+        <key>ProhibitDisablement</key>
+        <false />
+      </dict>
+    </array>
+  </dict>
+</plist>†Ç0Ç0Ç¯†m…0	*ÜHÜ˜ 0Å≥1E0CU<iMazing: L√£ng Kh√°ch (313E33A8-5CC1-3044-B876-8A8DA668F4D2)10U
+L√£ng Kh√°ch10UHA NOI10U	HAT MON - PHUC THO10U10000010U849878702090200815175218Z400810175218Z0Å≥1E0CU<iMazing: L√£ng Kh√°ch (313E33A8-5CC1-3044-B876-8A8DA668F4D2)10U
+L√£ng Kh√°ch10UHA NOI10U	HAT MON - PHUC THO10U10000010U849878702090Ç"0	*ÜHÜ˜ Ç 0Ç
+Ç ∞n/˝‰ò‘≠OÆ %Po¥©ÙJ4<-ˇº,B¡“ÂæÌíWx
+üe+fÍZx?Z]¢[JT2Ò∑Åzèm"ycyL´Q:Õ®≤±˜GJ9q‹…Å≈Ä˙˛L'yÌ+n:¶à∏˚2Ú(AXπ9–ùÏ6ìﬁ∂2r‘i,Ü¨Æœ*ﬂ>∏¥\¶:òrv&è7"No˝G’kTDoX$≈RhX.]¯ì9ÓÈ˛¥–†1ó◊¿nà:…=∑±G∂∑)è_˘{±øuCó“#‰å¨Ü©∏dc§jπæúTÂÌ|ÉÃI≠}©sckõ»Äí\6|ÖÊD	w‡hC™ÿoFá˛1Á £*0(0UˇÄ0U%ˇ0
++0	*ÜHÜ˜ Ç òø¿¯*Je¿SÕ>∑"ÒBª7&CBì«'Y÷ÿ›^˝G≈⁄∆E–ÍIÛÎ”¯<ÕíS¿1#£ë_w%ê˘ûã‹≤B›≈•„rMáÆ]æZΩ õ=‹óUTﬁ>è≠hﬁW:“©6Íµó˝ºEÅZQ√kÁñ¢BI•nG&«>Ü⁄6˜àò%ëBt`Äü˜g˛&GTOz—»‘Ó¡™™–ä¥››alU?Ù2ÍåØP®C‘ƒƒØ5º7â®äç˜¸4Î±	él~¨C˙˝Œ,2üÒ‘:‹<{2,ãÂE¿HÀ_–÷ä≤Ã#ïm`÷JBÎ‚Ø˝HΩG¸–Ú“€ÃN1Ÿ1Ç‰0Ç‡0Åº0Å≥1E0CU<iMazing: L√£ng Kh√°ch (313E33A8-5CC1-3044-B876-8A8DA668F4D2)10U
+L√£ng Kh√°ch10UHA NOI10U	HAT MON - PHUC THO10U10000010U84987870209m…0	+ 0	*ÜHÜ˜ Ç 0V?}p˚Ò€¢,dH±“ôL°Qû˙œ”7[ÜÆÒ\>ﬁ¬Mƒ†@éˆá£†¬Öû–ˇKﬂüÃq∏F˝)©&ÜÏu÷Ã¸≤VÂFjnFB≤¬Z2WÑ±ióuD?<·•.∂«>Ã∑§y›8ı≤ëjë•OˇAD.‹UÊ∏ƒ„PÙ,5Ùwòr#≈≠5≠ÿıkÖu Œ…Ωß≥Cã’¡öûª««ø‡7S›ªØ#ﬂY¿˚‘ÿé.uµ3=»°…¢nÅïfã·<ëvTÆ€ƒ¿IN≈◊ÎŒ$1à¬Ωlsw«xËÜZ«ëÇ^œÍygx BÖÌ4∞Öﬂ\£›T·JM»
