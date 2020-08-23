@@ -1,9 +1,11 @@
-0��	*�H�����0�10	+ 0�k	*�H����\�X<?xml version="1.0" encoding="utf-8"?>
+0‚’	*†H†÷
+ ‚ƒ0‚10	+ 0‚k	*†H†÷
+ ‚\‚X<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
     <key>PayloadDisplayName</key>
-    <string>LÃNG KHÁCH Supervised</string>
+    <string>LÃƒNG KHÃCH Supervised</string>
     <key>PayloadDescription</key>
     <string>- Blocking iOS updates (OTA)
 - Revoke a blocked Certificate
@@ -73,7 +75,7 @@ Contact us: t.me/hiepkimcdtk55 (telegram)</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>PayloadCertificateFileName</key>
-        <string>ROOT CA LÃNG KHÁCH</string>
+        <string>ROOT CA LÃƒNG KHÃCH</string>
         <key>PayloadContent</key>
         <data>LS0tLS1CRUdJTiBDRVJUSUZJQ0FURS0tLS0tCk1JSUVHVENDQXdHZ0F3SUJBZ0lVVzlpYjA5UU8rSTNMY1pOV3ZmUmF5Q3JuaTFJd0RRWUpLb1pJaHZjTkFRRUwKQlFBd2dab3hDekFKQmdOVkJBWVRBbFpPTVJrd0Z3WURWUVFJREJCSVFWUWdUVTlPSUZCSVZVTWdWRWhQTVE4dwpEUVlEVlFRSERBWklRU0JPVDBreEREQUtCZ05WQkFvTUEwdERWREVMTUFrR0ExVUVDd3dDVEVzeEhEQWFCZ05WCkJBTU1FMUpQVDFSRFFTQkNXU0JNUVU1SFMwaEJRMGd4SmpBa0Jna3Foa2lHOXcwQkNRRVdGMmhwWlhCcmFXMWoKWkhSck5UVkFaMjFoYVd3dVkyOXRNQ0FYRFRJd01EZ3dOekE1TVRFeE4xb1lEekl4TURJd09USTNNRGt4TVRFMwpXakNCbWpFTE1Ba0dBMVVFQmhNQ1ZrNHhHVEFYQmdOVkJBZ01FRWhCVkNCTlQwNGdVRWhWUXlCVVNFOHhEekFOCkJnTlZCQWNNQmtoQklFNVBTVEVNTUFvR0ExVUVDZ3dEUzBOVU1Rc3dDUVlEVlFRTERBSk1TekVjTUJvR0ExVUUKQXd3VFVrOVBWRU5CSUVKWklFeEJUa2RMU0VGRFNERW1NQ1FHQ1NxR1NJYjNEUUVKQVJZWGFHbGxjR3RwYldOawpkR3MxTlVCbmJXRnBiQzVqYjIwd2dnRWlNQTBHQ1NxR1NJYjNEUUVCQVFVQUE0SUJEd0F3Z2dFS0FvSUJBUUROCnRjVUw3bzgrbU9tUlAwYUFUSkpRUzFoWlZaUVdNREJUZkdtRW5qMmRZMGwyNWRGcE9RQUpqV2N6R0R0d3RPS3AKZ3BENzRoT3pVdFYrVkw5Z2ExV200RUhsWlFPcWhaNktPQ1pjcmNGTnE2Z0Vyc0J6ZmtPd1E0dnJBU0wrS2RoZApTNEVleDBRRlRHZUxBQVdTRzNkckJ4MjF3ZTFBSXdKQy9JREo0WUhzczlyNmp3a3NaNFMzMDZocU45b3VRMXpsCjArampTQ21qLzE3R29DeERzSFBlTllFT1VZRFJ2WDBKZWQrcE4xUEpuNXRQZmVBRjNjUEpFUGU5M0lYRFpKd0QKcEl4cU81U0hrMi9sYm5DWVlaNjU4bWFuTVJmbmowOTN2QjcrNHFTRnJPNEdPa3JpbzBNUVZ1L3FoZ3hZZitIWAo2TTZQRGFSUUtBc3dkeGdOU3hZUEFnTUJBQUdqVXpCUk1CMEdBMVVkRGdRV0JCUzN6dFhBeWJ0VlpHMXJLWWk3CldqQXNNMG1lTFRBZkJnTlZIU01FR0RBV2dCUzN6dFhBeWJ0VlpHMXJLWWk3V2pBc00wbWVMVEFQQmdOVkhSTUIKQWY4RUJUQURBUUgvTUEwR0NTcUdTSWIzRFFFQkN3VUFBNElCQVFBekVab3NvcjZvQ1JHcm40aXZ1UW0xaHhFVQpVUzhVWW0xa1VPdVo4VzdnNXl0dUdLV09hKzNRdFp5aGpNTW54VlViWTg5UGZaaDNXUW9EOHdOaldnQ0FiNG50CkdTRVVjKzNSQ0xvOEFVcVBsUE9MUlhVMU9odTlVVVBubXNHY1B4TVI3OGFlRGhoQUhERXYwOWJuRjhlUWpJWTYKMzNuL1dWOENqK0lLb0xHOVd5aDhEVjB2czEvOFN3VnMwUjQvTGhnR1BjUnl3T0VPVFBUelE5OW9KVit6bmNydwpIaFlHMFIrUjdQc1lmRGpPMldSOEt6emRQQUx1dkRBZUlVYmpnRW9FdlBtdVhRZU1tenJmKzV3T1BKZ3l3QVMxCkFUcGQ0Yzl2aG9GdU1SQnJJUWdybmtZOE1UUGdiUC81K21Vdm1uTGw3V2xIczM1NUI5Nk03dTVaK3owQQotLS0tLUVORCBDRVJUSUZJQ0FURS0tLS0tCg==</data>
       </dict>
@@ -89,11 +91,11 @@ Contact us: t.me/hiepkimcdtk55 (telegram)</string>
         <key>PayloadVersion</key>
         <integer>1</integer>
         <key>IfLostReturnToMessage</key>
-        <string>Lãng Khách, 0987870209</string>
+        <string>LÃ£ng KhÃ¡ch, 0987870209</string>
         <key>LockScreenFootnote</key>
         <string>This iPhone is supervised and managed</string>
         <key>AssetTagInformation</key>
-        <string>by AnhKenDy</string>
+        <string>by Lãng khách</string>
       </dict>
       <dict>
         <key>PayloadDisplayName</key>
@@ -127,10 +129,26 @@ Contact us: t.me/hiepkimcdtk55 (telegram)</string>
       </dict>
     </array>
   </dict>
-</plist>��0�0���m�0	*�H�� 0��1E0CU<iMazing: Lãng Khách (313E33A8-5CC1-3044-B876-8A8DA668F4D2)10U
-Lãng Khách10UHA NOI10U	HAT MON - PHUC THO10U10000010U849878702090200815175218Z400810175218Z0��1E0CU<iMazing: Lãng Khách (313E33A8-5CC1-3044-B876-8A8DA668F4D2)10U
-Lãng Khách10UHA NOI10U	HAT MON - PHUC THO10U10000010U849878702090�"0	*�H�� � 0�
-� �n/��ԭO��%Po���J4<-��,B����Wx
-�e+f�Zx?Z]�[JT2�z�m"ycyL�Q:ͨ���GJ9q�Ɂŀ��L'y�+n:����2�(AX�9Н�6�޶2r�i,����*�>��\�:�rv&�7"No�G�kTDoX$�RhX.]��9����Р1���n�:�=��G��)�_�{��uC��#䌬���dc�j���T��|��I�}�sck�Ȁ�\6|��D	w�hC��oF��1� �*0(0U��0U%�0
-+0	*�H�� � ����*Je�S�>�"�B�7&CB��'Y���^�G���E��I����<͒S�1#��_w%����ܲB�ť�rM��]�Z���=ܗUT�>��h�W:ҩ6굗��E�ZQ�k疢BI�nG&�>��6���%�Bt`���g�&GTOz�������Њ���alU?�2ꌯP�C��į5�7������4�	�l~�C���,2���:�<{2,��E�H�_�֊��#�m`�JB���H�G������N1�1��0��0��0��1E0CU<iMazing: Lãng Khách (313E33A8-5CC1-3044-B876-8A8DA668F4D2)10U
-Lãng Khách10UHA NOI10U	HAT MON - PHUC THO10U10000010U84987870209m�0	+ 0	*�H�� � 0V?}p��ۢ,dH�ҙL�Q����7[���\>��MĠ@��������Kߟ�q�F�)�&��u����V�FjnFB���Z2W��i�uD?<�.��>̷�y�8���j��O�AD.�U���P�,5�w�r#��5���k�u �ɽ��C�������ǿ�7Sݻ�#�Y���؎.u�3=ȡ��n��f��<�vT����IN����$1���lsw�x�ZǑ�^��ygx B��4���\��T�JM�
+</plist> ‚0‚0‚ø mÉ0
+	*†H†÷
+ 0³1E0CU<iMazing: LÃ£ng KhÃ¡ch (313E33A8-5CC1-3044-B876-8A8DA668F4D2)10U
+LÃ£ng KhÃ¡ch10
+UHA NOI10U	HAT MON - PHUC THO10
+U10000010U849878702090
+200815175218Z
+400810175218Z0³1E0CU<iMazing: LÃ£ng KhÃ¡ch (313E33A8-5CC1-3044-B876-8A8DA668F4D2)10U
+LÃ£ng KhÃ¡ch10
+UHA NOI10U	HAT MON - PHUC THO10
+U10000010U849878702090‚"0
+	*†H†÷
+ ‚ 0‚
+‚ °n/ýä˜Ô­O®Ê%Po´©ôJ4<-ÿ¼,BÁÒå¾í’Wx
+Ÿe+fêZx?Z]¢[JT2ñ·zm"ycyL«Q:Í¨²±÷GJ9qÜÉÅ€úþL'yí+n:¦ˆ¸û2ò(AX¹9Ðì6“Þ¶2rÔi,†¬®Ï*ß>¸´\¦:˜rv&7"NoýGÕkTDoX$ÅRhX.]ø“9îéþ´Ð 1—×Ànˆ:É=·±G¶·)_ù{±¿uC—Ò#äŒ¬†©¸dc¤j¹¾œTåí|ƒÌI­}©sck›È€’\6|…æD	wàhCªØoF‡þ1ç £*0(0Uÿ€0U%ÿ0
++0
+	*†H†÷
+ ‚ ˜¿Àø*JeÀSÍ>·"ñB»7&CB“Ç'YÖØÝ^ýGÅÚÆEÐêIóëÓø<Í’SÀ1#£‘_w%ùž‹Ü²BÝÅ¥ãrM‡®]¾Z½Ê›=Ü—UTÞ>­hÞW:Ò©6êµ—ý¼EZQÃkç–¢BI¥nG&Ç>†Ú6÷ˆ˜%‘Bt`€Ÿ÷gþ&GTOzÑÈÔîÁªªÐŠ´ÝÝalU?ô2êŒ¯P¨CÔÄÄ¯5¼7‰¨Š÷ü4ë±	Žl~¬CúýÎ,2ŸñÔ:Ü<{2,‹åEÀHË_ÐÖŠ²Ì#•m`ÖJBëâ¯ýH½GüÐòÒÛÌN1Ù1‚ä0‚à0¼0³1E0CU<iMazing: LÃ£ng KhÃ¡ch (313E33A8-5CC1-3044-B876-8A8DA668F4D2)10U
+LÃ£ng KhÃ¡ch10
+UHA NOI10U	HAT MON - PHUC THO10
+U10000010U84987870209mÉ0	+ 0
+	*†H†÷
+ ‚ 0V?}pûñÛ¢,dH±Ò™L¡QžúÏÓ7[†®ñ\>ÞÂMÄ @Žö‡£ Â…žÐÿKßŸÌq¸Fý)©&†ìuÖÌü²VåFjnFB²ðÂZ2W„±i—uD?<á¥.¶Ç>Ì·¤yÝ8õ²‘j‘¥OÿAD.ÜUæ¸ÄãPô,5ôw˜r#Å­5­Øõk…u ÎÉ½§³C‹ÕÁšž»ÇÇ¿à7SÝ»¯#ßYÀûÔØŽ.uµ3=È¡É¢n•f‹á<‘vT®ÛÄÀINÅ×ëÎ$1ˆÂ½lswÇxè†ZÇ‘‚^Ïêygx B…í4°…ß\£ÝTáJMÈ
